@@ -25,6 +25,8 @@ Examples of unacceptable behavior include:
 * Trolling, insulting or derogatory comments, and personal or political attacks
 * Public or private harassment
 * Other conduct which could reasonably be considered inappropriate in a professional setting
+* * Public or private harassment
+
 
 ## Enforcement Responsibilities
 
