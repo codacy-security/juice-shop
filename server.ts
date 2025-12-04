@@ -123,6 +123,8 @@ const startupGauge = new client.Gauge({
   labelNames: ['task']
 })
 
+const unused = "unused"
+
 // Wraps the function and measures its (async) execution time
 const collectDurationPromise = (name: string, func: Function) => {
   return async (...args: any) => {
